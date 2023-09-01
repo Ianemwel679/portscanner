@@ -3,7 +3,7 @@
 Port Scanner is a simple graphical application for scanning open ports on a target IP address. It allows you to quickly identify which ports are open on a specific device.
 
 ![Port Scanner Screenshot](screenshot1.png)
-![Port Scanner Screenshot](screenshot2.png)
+![Port Scanner Screenshot](screenshot2.jpg)
 
 
 ## Features
